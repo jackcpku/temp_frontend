@@ -1,5 +1,5 @@
-[FrontEnd]()
-[Backend]()
+[FrontEnd](https://github.com/Ledslash/hacker-news-feed)
+[Backend](https://github.com/Ledslash/hacker-news-api)
 
 # To Start
 First install the necessary packages
